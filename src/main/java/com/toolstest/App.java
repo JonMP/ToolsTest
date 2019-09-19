@@ -7,7 +7,7 @@ public class App {
     
     private String name;
 
-    public static void main(String[] args) {
+    public void main(String[] args) {
         //TODO hacer algo con este proyecto
         name = "Fer";
         System.out.println(name);
